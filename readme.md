@@ -1,8 +1,10 @@
 https://kuciapakrystian.github.io/heartbeat-animation/
 
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
 heartbeat animation made in html css and javascript
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
 
 ## Languages and Tools:
 <div align="center">  
