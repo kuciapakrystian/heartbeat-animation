@@ -3,11 +3,6 @@
 https://kuciapakrystian.github.io/heartbeat-animation/
 
 
-
-heartbeat animation made in html css and javascript
-
-
-
 ## Technologies
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
